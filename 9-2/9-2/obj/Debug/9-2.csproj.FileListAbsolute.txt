@@ -1,0 +1,9 @@
+C:\Users\427\Desktop\新增資料夾\9-2\9-2\bin\Debug\9-2.exe.config
+C:\Users\427\Desktop\新增資料夾\9-2\9-2\bin\Debug\9-2.exe
+C:\Users\427\Desktop\新增資料夾\9-2\9-2\bin\Debug\9-2.pdb
+C:\Users\427\Desktop\新增資料夾\9-2\9-2\obj\Debug\9-2.csproj.AssemblyReference.cache
+C:\Users\427\Desktop\新增資料夾\9-2\9-2\obj\Debug\_9_2.Properties.Resources.resources
+C:\Users\427\Desktop\新增資料夾\9-2\9-2\obj\Debug\9-2.csproj.GenerateResource.cache
+C:\Users\427\Desktop\新增資料夾\9-2\9-2\obj\Debug\9-2.csproj.CoreCompileInputs.cache
+C:\Users\427\Desktop\新增資料夾\9-2\9-2\obj\Debug\9-2.exe
+C:\Users\427\Desktop\新增資料夾\9-2\9-2\obj\Debug\9-2.pdb
