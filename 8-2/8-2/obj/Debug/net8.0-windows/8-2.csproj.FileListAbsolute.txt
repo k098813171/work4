@@ -1,0 +1,16 @@
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\obj\Debug\net8.0-windows\8-2.csproj.GenerateResource.cache
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\obj\Debug\net8.0-windows\8-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\obj\Debug\net8.0-windows\8-2.AssemblyInfoInputs.cache
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\obj\Debug\net8.0-windows\8-2.AssemblyInfo.cs
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\obj\Debug\net8.0-windows\8-2.csproj.CoreCompileInputs.cache
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\bin\Debug\net8.0-windows\8-2.exe
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\bin\Debug\net8.0-windows\8-2.deps.json
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\bin\Debug\net8.0-windows\8-2.runtimeconfig.json
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\bin\Debug\net8.0-windows\8-2.dll
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\bin\Debug\net8.0-windows\8-2.pdb
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\obj\Debug\net8.0-windows\RandomArraySortApp.Form1.resources
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\obj\Debug\net8.0-windows\8-2.dll
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\obj\Debug\net8.0-windows\refint\8-2.dll
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\obj\Debug\net8.0-windows\8-2.pdb
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\obj\Debug\net8.0-windows\8-2.genruntimeconfig.cache
+C:\Users\427\Desktop\新增資料夾\8-2\8-2\obj\Debug\net8.0-windows\ref\8-2.dll
